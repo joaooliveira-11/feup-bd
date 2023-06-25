@@ -1,12 +1,14 @@
-# BD-Projeto - Campeonato de Andebol
+# BD Project
 
-## Project Description
+>**Project**
+>Curricular Unit: [Bases de Dados](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501674), 2nd year
 
-Desenvolver uma base de dados para gerir os resultados do campeonato português de
-andebol, da primeira divisão. Esta base de dados deve responder ao lançamento de
-resultados jornada a jornada, marcadores dos golos, equipas que jogam em casa e jogam
-como visitante. Pretende-se saber o estado do campeonato em qualquer jornada, as equipas
-em condições de ir às competições europeias e em risco de despromoção
+## Objectives
 
-Projeto desenvolvido por João Oliveira (up202108737), Samuel Oliveira(up202108751) e Vicente Lora(up202006950)
+Develop a database to manage the results of the Portuguese handball championship's first division. This database should handle the recording of matchday results, goal scorers, home and away teams. Its purpose is to provide an up-to-date overview of the championship standings on any given day, identifying teams eligible for European competitions as well as those at risk of relegation
 
+### Group 10_2 members:
+
+1. João Oliveira (up202108737@edu.fe.up.pt)
+2. Samuel Oliveira (up202108751@edu.fe.up.pt)
+3. Vicente Lora (up202006950@edu.fe.up.pt)
